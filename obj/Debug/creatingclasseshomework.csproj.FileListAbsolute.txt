@@ -1,0 +1,2 @@
+c:\users\msken\documents\visual studio 2015\Projects\creatingclasseshomework\creatingclasseshomework\bin\Debug\creatingclasseshomework.exe.config
+c:\users\msken\documents\visual studio 2015\Projects\creatingclasseshomework\creatingclasseshomework\obj\Debug\creatingclasseshomework.csprojResolveAssemblyReference.cache
